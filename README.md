@@ -1,0 +1,2 @@
+# body_measurement
+The development of the application will have for mission to analyze an image in two dimensions (2D), to evaluate the measurements of the body of the individual being on this image and thereafter to display the size of clothing corresponding to these measurements. To obtain a two-dimensional image, a camera on a smartphone or a computer will do.
